@@ -39,7 +39,7 @@ Hi, I am Princewill Olaiya. I am an open source contributor, Gopher, Pythoneer, 
 
 - Know/Using
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/)|[<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/gnu_make.png" alt="gnu make logo" width="24">](https://www.gnu.org/software/make/manual/make.html) |
 
 - Learning
 
