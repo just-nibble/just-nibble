@@ -1,6 +1,6 @@
-# Hi 👋, I'm Princewill Olaiya
+# Hi 👋, I'm the Sigillite
 
-I'm a **Linux enthusiast** who loves comics, Sci-Fi, anime and manga. I like spending my free time researching how computers work and how to build a robot army to take over the world. 🤖
+That is all
 
 ---
 
