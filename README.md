@@ -1,4 +1,4 @@
-# Hi 👋, I'm the Sigillite
+# Hi 👋, I'm Princewill Olaiya
 
 That is all
 
