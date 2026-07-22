@@ -47,7 +47,7 @@ require("neocursor").setup({})
    I was compiled."
 ```
 
-*neocursor's unofficial mascot, probably*
+*neocursor's unofficial mascot, maybe*
 
 </td>
 </tr>
@@ -69,9 +69,15 @@ require("neocursor").setup({})
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=just-nibble&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9)
+```
+    COMMIT ACTIVITY THIS MONTH
+    ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░  32%  Coding
+    ▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░  48%  Debugging why it worked yesterday
+    ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░  12%  Explaining to rubber duck
+    ▓▓░░░░░░░░░░░░░░░░░░░░░░░░   8%  Actually sleeping
+```
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=just-nibble&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9)
+*Note: Sleep percentage may be inflated.*
 
 </div>
 
@@ -89,7 +95,7 @@ require("neocursor").setup({})
 
 ## 🌐 Find Me In The Wild
 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/just_nibble)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/codedibia)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/just-nibble)
 
 ---
