@@ -115,6 +115,6 @@ require("neocursor").setup({})
 
 *Disclaimer: The robot army is for educational purposes only... probably.*
 
-*If you're reading this, Prime — yes, I fanboyed in your DMs two years ago. No, I don't regret it. Yes, the plugin is real.*
+*If you're reading this, Prime — yes, I fanboyed in your DMs three years ago. No, I don't regret it. Yes, the plugin is real.*
 
 </div>
