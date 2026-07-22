@@ -1,6 +1,6 @@
 # Hi 👋, I'm Princewill Olaiya
 
-That is all
+My dream is to take over the world with a robot army.
 
 ---
 
@@ -11,4 +11,4 @@ That is all
 
 ---
 
-*Disclaimer: The robot army is for educational purposes only. Probably.*
+*Disclaimer: The robot army is for educational purposes only...probably.*
